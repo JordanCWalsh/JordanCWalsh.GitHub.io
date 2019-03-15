@@ -9,7 +9,7 @@ permalink: pretty
 # Setup
 title: Jordan C W
 tagline: "Jordan's Software Engineering Blog"
-description: "A <a href='https://www.linkedin.com/in/jordancwalsh/' target='_blank'>software developer</a> and tutorial writer, merging his technical skills with clear communication. Find him on twitter <a href='https://twitter.com/JCWsoftwareDev' target='_blank'>@JCWsoftwareDev</a>."
+description: "A <a href='https://www.linkedin.com/in/jordancwalsh/' target='_blank'>software developer</a> and tutorial writer, merging technical know-how with proactive communication. Find him on twitter <a href='https://twitter.com/JCWsoftwareDev' target='_blank'>@JCWsoftwareDev</a>."
 url: http://localhost:4000/
 baseurl: /
 
