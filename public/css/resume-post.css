@@ -1,0 +1,10 @@
+/* Custom CSS Classes for intro-and-resume post */
+
+.resume-skills-table .skill-category {
+  font-size: 13px;
+}
+
+.resume-skills-table-note {
+  font-size: 13px;
+  padding-top: 8px;
+}
