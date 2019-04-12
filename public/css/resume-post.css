@@ -1,10 +1,35 @@
 /* Custom CSS Classes for intro-and-resume post */
 
-.resume-skills-table .skill-category {
-  font-size: 13px;
+@media (min-width: 48em) {
+  .resume-skills-table-note {
+    font-size: 14px;
+    padding-top: 8px;
+  }
+
+  .resume-skills-table .skill-category {
+    font-size: 15px;
+  }
+
+  .resume-skills-table .skill-list {
+    font-size: 16px;
+  }
 }
 
-.resume-skills-table-note {
-  font-size: 13px;
-  padding-top: 8px;
+@media (min-width: 58em) {
+  html {
+    font-size: 20px;
+  }
+
+  .resume-skills-table-note {
+    font-size: 15px;
+    padding-top: 8px;
+  }
+
+  .resume-skills-table .skill-category {
+    font-size: 18px;
+  }
+
+  .resume-skills-table .skill-list {
+    font-size: 20px;
+  }
 }
